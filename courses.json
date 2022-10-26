@@ -28,6 +28,12 @@
         "name": "AngularJS",
         "description": "AngularJS is a discontinued free and open-source JavaScript-based web framework for developing single-page applications. It was maintained mainly by Google and a community of individuals and corporations.",
         "images": "https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"
+    },
+    {
+        "id": "6",
+        "name": "Python",
+        "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
+        "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"
     }
     
 ]
