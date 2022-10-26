@@ -22,6 +22,12 @@
         "name": "React",
         "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.",
         "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+    },
+    {
+        "id": "5",
+        "name": "AngularJS",
+        "description": "AngularJS is a discontinued free and open-source JavaScript-based web framework for developing single-page applications. It was maintained mainly by Google and a community of individuals and corporations.",
+        "images": "https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"
     }
     
 ]
