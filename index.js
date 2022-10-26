@@ -5,8 +5,10 @@ const cors = require('cors');
 
 app.use(cors());
 
+const courses = '/courses.json';
+
 app.get('/', (req, res) => {
-  res.send('/courses.json')
+  res.send('courses')
 })
 
 app.listen(port, () => {
