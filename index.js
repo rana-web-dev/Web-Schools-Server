@@ -5,10 +5,15 @@ const cors = require('cors');
 
 app.use(cors());
 
-const courses = '/courses.json';
+const api = require('./courses.json');
+const category = require('./category.json');
 
 app.get('/', (req, res) => {
-  res.send('courses')
+  res.send(api)
+})
+
+app.get('/category', (req, res) => {
+  res.send(category)
 })
 
 app.listen(port, () => {
